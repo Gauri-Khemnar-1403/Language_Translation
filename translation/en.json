@@ -1,0 +1,57 @@
+{
+    "nav":{
+        "WardiereInc":"Wardiere Inc",
+         "home":"Home",
+         "about":"About",
+         "solution":"Solution",
+         "pricing":"Pricing",
+         "sign":"Sign Up"
+    },
+    "home": {
+        "flexiblesolutions": "#flexiblesolutions",
+        "bigText":"Flexible Solutions for Your Business",
+        "smallText": "Take a Pulse of Work Preferences Across Generations. Ask If We're So Busy, Why Aren't We Getting Anything Done? Acknowledge That Task Management Is Not One-Size-Fits-All. Avoid Productivity Paranoia."
+    },
+    "about": {
+        "text1":"Reasons to choose Wardiere Inc.",
+        "one":"#One",
+        "t1":"Reliability",
+        "dis1":"Reliability in business is a measure of how well a business performs its tasks, and how well it consistently delivers quality products and services. ,It's an important factor for a business's success and growth, as it leads to customer trust.",
+        
+        "two":"#Two",
+        "t2":"Transparency",
+        "dis2":"Business transparency is the practice of being open and honest about a company's operations, values, and processes. Transparent companies share information with employees and stakeholders,including Performance, Internal processes,Values,",
+
+        "three":"#Three",
+        "t3":"Simplicity",
+        "dis3":"In terms of business, simplicity is a focused agenda to eliminate unnecessary and ineffective processes; to streamline operations and focus a company's collective energy on developing the business strategically, rather than just using growth as a measure.",
+        "title": "Welcome to the ABOUT page",
+        "description": "This is the ABOUT page. Learn something new as I explore language translation using i18n."
+    },
+    "pricing": {
+        "free":"Free",
+        "smallText":"forever free for individuals and small teams up to 3.",
+        "t11":"Unlimited Access",
+        "t12":"100MB Storage",
+        "t13":"3 Users",
+        "t14":" Unlimited Tasks",
+
+        "text1":"Unlimited",
+        "text2":"$29",
+        "smallText1":"per user/month billed yearly $39 billed monthly",
+        "t21":"All in Free +",
+        "t22":"Unlimited Guests",
+        "t23":" Priority Support",
+        "t24":" Smart Notifications",
+
+        "text3":"Enterprise",
+        "text4":"$35",
+        "smallText2":"per user/month billed yearly $45 billed monthly",
+        "t31":"All in Unlimited +",
+        "t32":"Bulk Export",
+        "t33":" Advanced Analytics",
+        "t34":" Advanced Security",
+        "title": "Welcome to the PRICING page",
+        "description": "This is the PRICING page. Learn something new as I explore language translation using i18n."
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "nav":{
+        "WardiereInc":"Wardiere Inc",
+        "home":"Accueil",
+        "about":"À propos",
+        "solution":"Solution",
+        "pricing":"Tarification",
+        "sign":"S'inscrire"
+    },
+    "home": {
+        "flexiblesolutions": "#solutionsflexibles",
+        "bigText":"Des solutions flexibles pour votre entreprise",
+        "smallText": "Prenez le pouls des préférences de travail entre les générations. Demandez-vous si nous sommes si occupés, pourquoi n'arrivons-nous à rien? Reconnaissez que la gestion des tâches n'est pas universelle. Évitez la paranoïa de la productivité."
+    },
+    "about": {
+        "text1":"Raisons de choisir Wardiere Inc.",
+        "one":"#Un",
+        "t1":"Fiabilité",
+        "dis1":"La fiabilité dans le commerce est une mesure de la performance d'une entreprise à accomplir ses tâches et à fournir régulièrement des produits et services de qualité. C'est un facteur important pour le succès et la croissance de l'entreprise, car cela conduit à la confiance des clients.",
+        
+        "two":"#Deux",
+        "t2":"Transparence",
+        "dis2":"La transparence commerciale est la pratique de l'ouverture et de l'honnêteté sur les opérations, les valeurs et les processus d'une entreprise. Les entreprises transparentes partagent des informations avec les employés et les parties prenantes, y compris la performance, les processus internes, et les valeurs.",
+
+        "three":"#Trois",
+        "t3":"Simplicité",
+        "dis3":"En termes de commerce, la simplicité est une stratégie visant à éliminer les processus inutiles et inefficaces; rationaliser les opérations et concentrer l'énergie collective de l'entreprise sur le développement stratégique, plutôt que de simplement utiliser la croissance comme mesure.",
+        "title": "Bienvenue sur la page À PROPOS",
+        "description": "Ceci est la page À PROPOS. Apprenez quelque chose de nouveau en explorant la traduction de langue avec i18n."
+    },
+    "pricing": {
+        "free":"Gratuit",
+        "smallText":"gratuit à vie pour les individus et les petites équipes jusqu'à 3 personnes.",
+        "t11":"Accès illimité",
+        "t12":"100 Mo de stockage",
+        "t13":"3 utilisateurs",
+        "t14":"Tâches illimitées",
+
+        "text1":"Illimité",
+        "text2":"29$",
+        "smallText1":"par utilisateur/mois facturé annuellement, 39$ facturé mensuellement",
+        "t21":"Tout dans Gratuit +",
+        "t22":"Invités illimités",
+        "t23":"Support prioritaire",
+        "t24":"Notifications intelligentes",
+
+        "text3":"Entreprise",
+        "text4":"35$",
+        "smallText2":"par utilisateur/mois facturé annuellement, 45$ facturé mensuellement",
+        "t31":"Tout dans Illimité +",
+        "t32":"Exportation en masse",
+        "t33":"Analyses avancées",
+        "t34":"Sécurité avancée",
+        "title": "Bienvenue sur la page TARIFICATION",
+        "description": "Ceci est la page TARIFICATION. Apprenez quelque chose de nouveau en explorant la traduction de langue avec i18n."
+    }
+}
