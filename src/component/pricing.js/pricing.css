@@ -1,0 +1,14 @@
+.box {
+    width: 100%;
+    background: linear-gradient(135deg, #13072e, #3f2182);
+    border-radius: 15px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    padding: 30px;
+    position: relative;
+    min-height: 70vh;
+    display: flex;
+}
+.font1{
+    font-size: 50px;
+    font-weight: 750;
+}

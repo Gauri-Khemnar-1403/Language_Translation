@@ -1,0 +1,17 @@
+/* Set page background to black and text to white */
+body {
+  background: black;
+  color: white;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+/* Remove unused App-logo animation styles */
+.App-logo {
+  height: 40vmin;
+}
+
